@@ -1,0 +1,10 @@
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 6\DecisionStructureB - Katharine Wunderle\ShippingCalculator-Katharine Wunderle\obj\Debug\ShippingCalculator-Katharine Wunderle.csprojAssemblyReference.cache
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 6\DecisionStructureB - Katharine Wunderle\ShippingCalculator-Katharine Wunderle\obj\Debug\ShippingCalculator_Katharine_Wunderle.shipCalc.resources
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 6\DecisionStructureB - Katharine Wunderle\ShippingCalculator-Katharine Wunderle\obj\Debug\ShippingCalculator_Katharine_Wunderle.Properties.Resources.resources
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 6\DecisionStructureB - Katharine Wunderle\ShippingCalculator-Katharine Wunderle\obj\Debug\ShippingCalculator-Katharine Wunderle.csproj.GenerateResource.cache
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 6\DecisionStructureB - Katharine Wunderle\ShippingCalculator-Katharine Wunderle\obj\Debug\ShippingCalculator-Katharine Wunderle.csproj.CoreCompileInputs.cache
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 6\DecisionStructureB - Katharine Wunderle\ShippingCalculator-Katharine Wunderle\bin\Debug\ShippingCalculator-Katharine Wunderle.exe.config
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 6\DecisionStructureB - Katharine Wunderle\ShippingCalculator-Katharine Wunderle\bin\Debug\ShippingCalculator-Katharine Wunderle.exe
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 6\DecisionStructureB - Katharine Wunderle\ShippingCalculator-Katharine Wunderle\bin\Debug\ShippingCalculator-Katharine Wunderle.pdb
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 6\DecisionStructureB - Katharine Wunderle\ShippingCalculator-Katharine Wunderle\obj\Debug\ShippingCalculator-Katharine Wunderle.exe
+C:\Users\KATIE\Desktop\School\C#\Homework\Homework 6\DecisionStructureB - Katharine Wunderle\ShippingCalculator-Katharine Wunderle\obj\Debug\ShippingCalculator-Katharine Wunderle.pdb
